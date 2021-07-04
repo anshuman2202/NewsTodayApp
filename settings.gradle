@@ -1,0 +1,2 @@
+rootProject.name = "News India"
+include ':app'
